@@ -1,4 +1,4 @@
-# creckteres_details
+# Counter App
 
 A new Flutter project.
 
